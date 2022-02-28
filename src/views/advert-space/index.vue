@@ -4,7 +4,7 @@
 
 <script>
 export default {
-  name:'AdvertSpaceIndex'
+  name: 'AdvertSpaceIndex'
 }
 
 </script>
